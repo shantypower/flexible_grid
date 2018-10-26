@@ -1,4 +1,5 @@
-.block2 {
+.block3 {
+  box-sizing: border-box;
   margin-bottom: 20px;
 
   @media (min-width: $tablet-width) {
@@ -7,8 +8,8 @@
   }
 
   @media (min-width: $desktop-width) {
-    width: 22.4%;
+    float: right;
+    width: 18.9%;
     padding-right: 0;
-    margin-bottom: 0;
   }
 }
