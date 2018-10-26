@@ -1,6 +1,6 @@
 .content {
+  display: block;
   box-sizing: border-box;
-  position: relative;
   padding: 0 10px;
 
   @media (min-width: $tablet-width) {
